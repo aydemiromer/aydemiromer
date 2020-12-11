@@ -75,6 +75,9 @@
 
 <a href="mailto:aydemirerdemomer@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-aydemirerdemomer@gmail.com-blue?style=flat-square&logo=gmail"></a>
 
+<a href="https://twitter.com/aydemireo"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-aydemireo-blue?style=flat-square&logo=twitter"></a>
+
+
 </p>
 
 
