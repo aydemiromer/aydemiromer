@@ -19,21 +19,13 @@
 
 
 
-<!--
 
-- 🛢 &nbsp; MySQL | MongoDB
-
-- 🔧 &nbsp; Git | Markdown | Selenium | Tidyverse
-
-- 🖥 &nbsp; Illustrator| Photoshop | InDesign
-
--->
 
 
 
 <h3>🛠 To Learn</h3>
 
-- 🔧 &nbsp;  Firebase | JSONAPI
+- 🔧 &nbsp;  Firebase | JSONAPI | MOBILE UI-UX DESIGN
 
 <hr>
 
