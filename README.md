@@ -14,7 +14,6 @@
 
 
 <br/>
-<img src="https://github.com/nirala69/nirala69/blob/master/70804f7e25b11f29db904f2fa7b4cd9d.gif" width="230" align='right'>
 
 [![ GitHub Stats](https://github-readme-stats.vercel.app/api?username=aydemiromer&show_icons=true)](https://github.com/aydemiromer)
 
