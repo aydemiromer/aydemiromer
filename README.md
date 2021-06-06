@@ -1,10 +1,10 @@
-### HELLOOOO 👋<h2> I'm Omer Erdem</h2>
+### HELLOOOO 👋<h2> I am Omer Erdem</h2>
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 <h3> 👨🏻•💻 About Me </h3>
 - 🤔 &nbsp; Exploring Flutter and developing mobile apps.
-- 🎓 &nbsp; Studying Computer Engineering at Karabuk University.
+- 🤔 &nbsp; I will write SwiftUI here soon.
 <h3>🛠 Tech Stack</h3>
 - 💻 &nbsp; Dart| Flutter | C | HTML | PHP-Laravel
 
