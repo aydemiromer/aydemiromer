@@ -7,7 +7,7 @@
 - 🤔 &nbsp; I will write SwiftUI here soon.
 <h3>🛠 Tech Stack</h3>
 - 💻 &nbsp; Dart| Flutter | C | HTML | PHP-Laravel
-- New tech coming soon -> SwiftUI
+<h4>- 🖥📱 New tech coming soon -> SwiftUI</h4>
 
 
 <hr>
