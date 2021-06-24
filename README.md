@@ -4,7 +4,7 @@
 
 <h3> 👨🏻•💻 About Me </h3>
 - 🤔 &nbsp; Exploring Flutter and developing mobile apps.
-- 🤔 &nbsp; I will write SwiftUI here soon.
+
 <h3>🛠 Tech Stack</h3>
 - 💻 &nbsp; Dart| Flutter | C | HTML | PHP-Laravel
 <h4>- 🖥📱 New tech coming soon -> SwiftUI</h4>
