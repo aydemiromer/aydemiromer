@@ -54,7 +54,7 @@
 
 
 
-
+<img src="https://raw.githubusercontent.com/aydemiromer/aydemiromer/output/github-contribution-grid-snake.svg" />
 
 ![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=aydemiromer.aydemiromer)   <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
 
