@@ -19,7 +19,6 @@
 <br/>
 <img align="left" alt="GIF" src="https://github-readme-stats.vercel.app/api?username=aydemiromer&theme=dark&show_icons=true"/>
 
-[![ GitHub Stats](https://github-readme-stats.vercel.app/api?username=aydemiromer&show_icons=true)](https://github.com/aydemiromer)
 
 
 <br/>
