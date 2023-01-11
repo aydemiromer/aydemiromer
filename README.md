@@ -1,10 +1,9 @@
 ### HELLO GUYS 👋
 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-
-- &nbsp; This profile interested in Exploring Flutter and developing mobile apps.
+<!--<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 
+ 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
@@ -16,17 +15,8 @@
 
 
 
-<br/>
-<img align="left" alt="GIF" src="https://github-readme-stats.vercel.app/api?username=aydemiromer&theme=dark&show_icons=true"/>
 
 
-
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 
 
 
@@ -38,7 +28,7 @@
 
 
 <hr>
-
+-->
 
 
 <h3> 🤝🏻 Contact With Me
